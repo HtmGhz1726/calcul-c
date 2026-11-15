@@ -2,6 +2,15 @@
 
 Petit programme en langage C qui lit deux nombres entiers saisis au clavier et affiche leur somme.
 
+## Coordonnées de l'étudiant
+
+- **Nom et prénom :** HAITAM ELGHAZI
+- **Établissement :** École Nationale des Sciences Appliquées (ENSA) de Khouribga
+- **Formation :** 1re année du cycle ingénieur
+- **Module :** Introduction à l'ingénierie digitale (IID)
+- **Compte GitHub :** [HtmGhz1726](https://github.com/HtmGhz1726)
+- **Adresse e-mail configurée pour Git :** [htmmirror@gmail.com](mailto:htmmirror@gmail.com)
+
 ## Contexte
 
 Ce projet correspond à l'exercice 1 du TP **Git et GitHub** du module *Introduction à l'ingénierie digitale (IID)*, à l'ENSA Khouribga.
